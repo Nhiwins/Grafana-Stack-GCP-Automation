@@ -9,6 +9,6 @@ This project is an infrastructure as code solution that leverages Terraform and 
 - **Automated Configuration:** Ansible is used to install and configure Docker containers for Promtail, Grafana, and Loki.
 
 
-## STILL BEING EDITED 
+
 
 
